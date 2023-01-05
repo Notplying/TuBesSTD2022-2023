@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1672382656 source:z:\desktop\homework\[telkom]\semester 3\strukdat\tubes\tubes\implementation.cpp
+	"Header.h"
+
+1672382111 source:z:\desktop\homework\[telkom]\semester 3\strukdat\tubes\tubes\main.cpp
+	"Header.h"
+	<iostream>
+
+1672381792 z:\desktop\homework\[telkom]\semester 3\strukdat\tubes\tubes\header.h
+	<iostream>
+	<stdlib.h>
+
